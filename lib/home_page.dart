@@ -29,7 +29,7 @@ class _HomePageState extends State<HomePage> {
             body: const Center(
               child: Text(
                 "Hello World",
-                style: TextStyle(fontSize: 20),
+                style: TextStyle(fontSize: 30),
               ),
             ),
           ),
